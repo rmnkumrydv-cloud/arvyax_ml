@@ -1,11 +1,15 @@
 pandas
-numpy
+numpy<2
 scikit-learn
 xgboost
 scipy
 textblob
 joblib
-matplotlib
+
+
+matplotlib>=3.9.0
+pillow>=11.0.0
+
 seaborn
 streamlit==1.32.0
 altair==4.2.2
